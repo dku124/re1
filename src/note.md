@@ -4,4 +4,4 @@
   + asset: imgs, fake-data(products.js)
   + pages: Home.jsx, AllFoods.jsx, FoodDetail.jsx, Cart.jsx, Checkout.jsx, Contact.jsx, Login.jsx, Register.jsx (rsc)
   + routes: Routers.jsx 
-  + components: Header(Header.jsx), Footer(Footer.jsx), Layout(Layout.jsx) (add Header, Footer into Layout and add Layout into App.js and try to run)
+  + components: Header(Header.jsx), Footer(Footer.jsx), Layout(Layout.jsx) (add Header, Footer, Routers into Layout; add BrowserRouter to index.js;  and add Layout into App.js and try to run); Helmet(Helmet.jsx)
