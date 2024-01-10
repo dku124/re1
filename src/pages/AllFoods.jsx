@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-function AllFoods() {
+const AllFoods = () => {
   return (
     <div>
       AllFoods
     </div>
-  )
-}
+  );
+};
 
-export default AllFoods
+export default AllFoods;
